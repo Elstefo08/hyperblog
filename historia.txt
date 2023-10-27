@@ -1,5 +1,3 @@
 stefano boada, estudiante para ser un gran programador, jijijijiji
 
-hoy cambiamos cosas
-
-Hoy hablaremos de su vida y haremos cambios
+Realizaremos cambios para validar
